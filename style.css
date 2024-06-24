@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body}
+background-color: #A7E6FF;
+}
+.titulo{
+display: flex;
+justify-content: center;
+align-items: center;
+background: rgb(84, 51, 16)
+border: 3px solid orange  
+}
+.titulo p{
+font-size: 50px;
+font-weight: bold;
+color: #FEFFD2
+}
+.subtitulo.p{
+font-size: 30px;
+font-weight: bold;
+color: #FEFFD2
+}
+.conten1 img{
+display: flex;
+justify-content: center;
+align-items: center;
+background: rgb(84, 51, 16)
+border: 3px solid #FEFFD2
+}
+.conten1 img{
+  height: 250px;
+}
+.conten1 p{
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(84, 51, 16)
+  margin: 20x;
+  li
